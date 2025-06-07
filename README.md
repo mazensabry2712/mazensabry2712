@@ -3,8 +3,8 @@
 </div>
 
 
-<h2 align="left">Hi ❤! My name is Mazen Bahnes and I'm a Full Stack developer from Egypt</h2>
-<h2>Thank you for visiting the profile❤!Go to the repo to see the projects from here https://github.com/mazensabry2712?tab=repositories.For more, contact me.</h2>
+<h2 align="left">Hi❤! My name is Mazen Bahnes and I'm a Full Stack developer from Egypt</h2>
+<h2 align="left">Thank you for visiting my profile❤!Go to the repo to see the projects from here https://github.com/mazensabry2712?tab=repositories . For more,contact me.</h2>
 
 
 
