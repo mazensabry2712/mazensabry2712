@@ -3,7 +3,9 @@
 </div>
 
 
-<h2 align="left">Hi ❤! My name is Mahmoud Bahaa and I'm a Full Stack developer from Egypt</h2>
+<h2 align="left">Hi ❤! My name is Mazen Bahnes and I'm a Full Stack developer from Egypt</h2>
+<br>
+<h2 align="left">Thank you for visiting the profile❤!Go to the repo to see the projects from here https://github.com/mazensabry2712?tab=repositories . For more, contact me. This is the WhatsApp link. wa.me/+201005525487 </h2>
 
 
 
